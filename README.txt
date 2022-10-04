@@ -10,17 +10,3 @@ sebelumnya tidak tertutup. (Solved)
 Unfixed :
 1. Sistem penjadwalan & KRS
 
-
-
-
---Login Info--
-
-Akun Mahasiswa :
-
-username : 2021604012
-password : 2021604012
-
-Akun Admin :
-
-username : admin
-password : admin
